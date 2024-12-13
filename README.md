@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kj2610" alt="kj2610" /></a> </p>
 
-- 🔭 I’m currently studying in **NIT Jamshedpur**
+- 🔭 I’m currently working as  **Software Developer** at **Fristine Infotech Pvt Ltd**
 
-- 🌱 I’m currently learning **WEB Development**
+- 🌱 I have done **MCA** from **NIT Jamshedpur**
 
-- 📫 How to reach me **kjcp2610@gmail.com**
+- 📫 How to reach me **gupta.kajal0526@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
